@@ -9,6 +9,8 @@ public class Test {
 		System.out.println("안뇽하세요");
 		System.out.println("hi guys ~  i'm jayce");
 		System.out.println("hi");
+		
+		// 들어오신분들 입력하실 때 주석으로 이름 달아주시면 알아보기 쉬울 것 같아요~
 
 	}
 
