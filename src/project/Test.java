@@ -9,9 +9,17 @@ public class Test {
 		System.out.println("안뇽하세요");
 		System.out.println("hi guys ~  i'm jayce");
 		System.out.println("hi");
+<<<<<<< HEAD
 		
 		// 들어오신분들 입력하실 때 주석으로 이름 달아주시면 알아보기 쉬울 것 같아요~
 
+=======
+
+		System.out.println("수성");
+		
+		System.out.println("이제 오류가 안나요");
+
+>>>>>>> branch 'master' of https://github.com/91HeoJun/Project.git
 	}
 
 }
