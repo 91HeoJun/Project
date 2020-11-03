@@ -13,6 +13,7 @@ public class Test {
 
 		System.out.println("리셋합니다"); // 허준
 		System.out.println("췍 췍 !"); // 주영우
+		System.out.println("수성"); //서수성
 		
 		
 		
