@@ -17,6 +17,7 @@ public class Test {
 		System.out.println("꿀팁 뿌립니다. !"); // 주영우
 
 		System.out.println("이마트 와인코너 가셔서 모스카토 2병에 18000원에 살수있습니다. 원래는 한병에 15000원 이상이에요"); // 주영우
+		System.out.println("5:42 분입니다");//서여옿
 	}
 
 }
