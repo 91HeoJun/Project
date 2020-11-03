@@ -13,7 +13,7 @@ public class Test {
 		System.out.println("수성"); // 서수성
 
 		System.out.println("수성씨, 영우씨 추가 확인했습니다"); // 허준
-
+		System.out.println("올립니다"); // 황진구
 	}
 
 }
