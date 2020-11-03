@@ -10,8 +10,9 @@ public class Test {
 
 
 		// 작성하면 이름 주석으로 달아보면 보기 편할 것 같아요
-		
+
 		System.out.println("리셋합니다"); // 허준
+		System.out.println("췍 췍 !"); // 주영우
 		
 		
 		
