@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("안뇽하세요");
 		System.out.println("hi guys ~  i'm jayce");
 		System.out.println("hi");
+		System.out.println("수성");
 
 	}
 
