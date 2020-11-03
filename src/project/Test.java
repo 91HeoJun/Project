@@ -1,7 +1,5 @@
 package project;
 
-import java.util.Scanner;
-
 public class Test {
 
 	public static void main(String[] args) {
@@ -15,7 +13,7 @@ public class Test {
 		System.out.println("췍 췍 !"); // 주영우
 		System.out.println("수성"); //서수성
 		
-		
+		System.out.println("수성씨, 영우씨 추가 확인했습니다"); // 허준
 		
 		
 		
